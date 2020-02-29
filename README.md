@@ -44,7 +44,7 @@ rcx closePort.
 
 That's all for the immediate mode.
 
-###Program mode
+### Program mode
 
 For compiling and downloading a little program to the RCX use the method :
 ```
